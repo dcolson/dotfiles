@@ -1,0 +1,5 @@
+(setq backup-directory-alist '(("." . "~/.emacssaves")))
+(setq x-select-enable-clipboard t)
+(setq-default transient-mark-mode t)
+(setq-default scroll-step 1)
+(setq-default tab-width 4)
